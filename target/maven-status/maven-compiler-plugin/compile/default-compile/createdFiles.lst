@@ -1,0 +1,5 @@
+com\sdw\pages\ResidentLoginPage.class
+com\sdw\utils\ReadPropertyFiles.class
+com\sdw\constants\FrameworkConstants.class
+com\sdw\driver\Driver.class
+com\sdw\pages\HomePage.class

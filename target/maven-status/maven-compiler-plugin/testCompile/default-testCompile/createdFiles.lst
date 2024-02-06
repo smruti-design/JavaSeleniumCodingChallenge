@@ -1,0 +1,4 @@
+com\sdw\tests\HomePageTest.class
+com\sdw\tests\ResidentLoginTests.class
+Runner.class
+com\sdw\tests\BaseClass.class
