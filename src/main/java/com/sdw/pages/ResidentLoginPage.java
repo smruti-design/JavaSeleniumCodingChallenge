@@ -72,5 +72,4 @@ public class ResidentLoginPage {
 		Select select = new Select(element);
 		select.selectByVisibleText(options);
 	}
-
 }

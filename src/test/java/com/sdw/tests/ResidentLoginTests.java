@@ -112,5 +112,4 @@ public final class ResidentLoginTests extends BaseClass {
 		Assert.assertTrue(flag);
 
 	}
-
 }

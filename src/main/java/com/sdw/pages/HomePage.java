@@ -58,5 +58,4 @@ public final class HomePage {
 		wait.until(ExpectedConditions.invisibilityOf(element));
 
 	}
-
 }

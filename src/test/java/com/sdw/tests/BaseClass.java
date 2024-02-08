@@ -23,5 +23,4 @@ public class BaseClass {
 	public void tearDown() {
 		Driver.quitDriver();
 	}
-
 }

@@ -2,66 +2,66 @@
 <testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-06T18:14:50Z" name="Suite" finished-at="2024-02-06T18:17:01Z" duration-ms="130167">
+  <suite started-at="2024-02-06T19:30:14Z" name="Suite" finished-at="2024-02-06T19:32:26Z" duration-ms="131476">
     <groups>
     </groups>
-    <test started-at="2024-02-06T18:14:50Z" name="Test" finished-at="2024-02-06T18:17:01Z" duration-ms="130167">
+    <test started-at="2024-02-06T19:30:14Z" name="Test" finished-at="2024-02-06T19:32:26Z" duration-ms="131476">
       <class name="com.sdw.tests.HomePageTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sdw.tests.HomePageTest@352c1b98]" started-at="2024-02-06T18:14:50Z" name="setUp" finished-at="2024-02-06T18:15:04Z" duration-ms="13816" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sdw.tests.HomePageTest@352c1b98]" started-at="2024-02-06T19:30:14Z" name="setUp" finished-at="2024-02-06T19:30:31Z" duration-ms="16525" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="validateTheTitleOfHomePage()[pri:0, instance:com.sdw.tests.HomePageTest@352c1b98]" started-at="2024-02-06T18:15:04Z" name="validateTheTitleOfHomePage" finished-at="2024-02-06T18:15:05Z" duration-ms="750" status="PASS">
+        <test-method signature="validateTheTitleOfHomePage()[pri:0, instance:com.sdw.tests.HomePageTest@352c1b98]" started-at="2024-02-06T19:30:31Z" name="validateTheTitleOfHomePage" finished-at="2024-02-06T19:30:32Z" duration-ms="741" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateTheTitleOfHomePage -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sdw.tests.HomePageTest@352c1b98]" started-at="2024-02-06T18:15:05Z" name="tearDown" finished-at="2024-02-06T18:15:06Z" duration-ms="1087" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sdw.tests.HomePageTest@352c1b98]" started-at="2024-02-06T19:30:32Z" name="tearDown" finished-at="2024-02-06T19:30:34Z" duration-ms="2504" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sdw.tests.HomePageTest@352c1b98]" started-at="2024-02-06T18:15:06Z" name="setUp" finished-at="2024-02-06T18:15:19Z" duration-ms="13334" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sdw.tests.HomePageTest@352c1b98]" started-at="2024-02-06T19:30:34Z" name="setUp" finished-at="2024-02-06T19:30:47Z" duration-ms="12943" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="validateTitleOfAccountingPage()[pri:0, instance:com.sdw.tests.HomePageTest@352c1b98]" started-at="2024-02-06T18:15:19Z" name="validateTitleOfAccountingPage" finished-at="2024-02-06T18:15:22Z" duration-ms="2316" status="PASS">
+        <test-method signature="validateTitleOfAccountingPage()[pri:0, instance:com.sdw.tests.HomePageTest@352c1b98]" started-at="2024-02-06T19:30:47Z" name="validateTitleOfAccountingPage" finished-at="2024-02-06T19:30:49Z" duration-ms="1815" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateTitleOfAccountingPage -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sdw.tests.HomePageTest@352c1b98]" started-at="2024-02-06T18:15:22Z" name="tearDown" finished-at="2024-02-06T18:15:23Z" duration-ms="1256" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sdw.tests.HomePageTest@352c1b98]" started-at="2024-02-06T19:30:49Z" name="tearDown" finished-at="2024-02-06T19:30:50Z" duration-ms="1082" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sdw.tests.HomePageTest@352c1b98]" started-at="2024-02-06T18:15:23Z" name="setUp" finished-at="2024-02-06T18:15:32Z" duration-ms="9034" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sdw.tests.HomePageTest@352c1b98]" started-at="2024-02-06T19:30:50Z" name="setUp" finished-at="2024-02-06T19:30:59Z" duration-ms="8933" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="validateTitleOfMarketingAndExploringPage()[pri:0, instance:com.sdw.tests.HomePageTest@352c1b98]" started-at="2024-02-06T18:15:32Z" name="validateTitleOfMarketingAndExploringPage" finished-at="2024-02-06T18:15:35Z" duration-ms="2786" status="PASS">
+        <test-method signature="validateTitleOfMarketingAndExploringPage()[pri:0, instance:com.sdw.tests.HomePageTest@352c1b98]" started-at="2024-02-06T19:30:59Z" name="validateTitleOfMarketingAndExploringPage" finished-at="2024-02-06T19:31:01Z" duration-ms="2474" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateTitleOfMarketingAndExploringPage -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sdw.tests.HomePageTest@352c1b98]" started-at="2024-02-06T18:15:35Z" name="tearDown" finished-at="2024-02-06T18:15:36Z" duration-ms="960" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sdw.tests.HomePageTest@352c1b98]" started-at="2024-02-06T19:31:01Z" name="tearDown" finished-at="2024-02-06T19:31:02Z" duration-ms="904" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.sdw.tests.HomePageTest -->
       <class name="com.sdw.tests.ResidentLoginTests">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sdw.tests.ResidentLoginTests@21129f1f]" started-at="2024-02-06T18:15:36Z" name="setUp" finished-at="2024-02-06T18:15:45Z" duration-ms="9178" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sdw.tests.ResidentLoginTests@21129f1f]" started-at="2024-02-06T19:31:02Z" name="setUp" finished-at="2024-02-06T19:31:11Z" duration-ms="8478" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="selectOptionsFromDropDown()[pri:0, instance:com.sdw.tests.ResidentLoginTests@21129f1f]" started-at="2024-02-06T18:15:45Z" name="selectOptionsFromDropDown" finished-at="2024-02-06T18:15:57Z" duration-ms="12451" status="PASS">
+        <test-method signature="selectOptionsFromDropDown()[pri:0, instance:com.sdw.tests.ResidentLoginTests@21129f1f]" started-at="2024-02-06T19:31:11Z" name="selectOptionsFromDropDown" finished-at="2024-02-06T19:31:25Z" duration-ms="14485" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectOptionsFromDropDown -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sdw.tests.ResidentLoginTests@21129f1f]" started-at="2024-02-06T18:15:57Z" name="tearDown" finished-at="2024-02-06T18:15:58Z" duration-ms="910" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sdw.tests.ResidentLoginTests@21129f1f]" started-at="2024-02-06T19:31:25Z" name="tearDown" finished-at="2024-02-06T19:31:26Z" duration-ms="1164" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sdw.tests.ResidentLoginTests@21129f1f]" started-at="2024-02-06T18:15:58Z" name="setUp" finished-at="2024-02-06T18:16:08Z" duration-ms="9944" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sdw.tests.ResidentLoginTests@21129f1f]" started-at="2024-02-06T19:31:26Z" name="setUp" finished-at="2024-02-06T19:31:36Z" duration-ms="9201" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="validateMandatoryField(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.sdw.tests.ResidentLoginTests@21129f1f]" started-at="2024-02-06T18:16:08Z" name="validateMandatoryField" data-provider="getDetails" finished-at="2024-02-06T18:16:19Z" duration-ms="10978" status="PASS">
+        <test-method signature="validateMandatoryField(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.sdw.tests.ResidentLoginTests@21129f1f]" started-at="2024-02-06T19:31:36Z" name="validateMandatoryField" data-provider="getDetails" finished-at="2024-02-06T19:31:49Z" duration-ms="13799" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -92,31 +92,31 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateMandatoryField -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sdw.tests.ResidentLoginTests@21129f1f]" started-at="2024-02-06T18:16:19Z" name="tearDown" finished-at="2024-02-06T18:16:20Z" duration-ms="919" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sdw.tests.ResidentLoginTests@21129f1f]" started-at="2024-02-06T19:31:49Z" name="tearDown" finished-at="2024-02-06T19:31:50Z" duration-ms="903" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sdw.tests.ResidentLoginTests@21129f1f]" started-at="2024-02-06T18:16:20Z" name="setUp" finished-at="2024-02-06T18:16:29Z" duration-ms="8697" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sdw.tests.ResidentLoginTests@21129f1f]" started-at="2024-02-06T19:31:50Z" name="setUp" finished-at="2024-02-06T19:31:58Z" duration-ms="7670" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="validateOptionsFromDropDown()[pri:0, instance:com.sdw.tests.ResidentLoginTests@21129f1f]" started-at="2024-02-06T18:16:29Z" name="validateOptionsFromDropDown" finished-at="2024-02-06T18:16:40Z" duration-ms="10961" status="PASS">
+        <test-method signature="validateOptionsFromDropDown()[pri:0, instance:com.sdw.tests.ResidentLoginTests@21129f1f]" started-at="2024-02-06T19:31:58Z" name="validateOptionsFromDropDown" finished-at="2024-02-06T19:32:07Z" duration-ms="8832" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateOptionsFromDropDown -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sdw.tests.ResidentLoginTests@21129f1f]" started-at="2024-02-06T18:16:40Z" name="tearDown" finished-at="2024-02-06T18:16:41Z" duration-ms="997" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sdw.tests.ResidentLoginTests@21129f1f]" started-at="2024-02-06T19:32:07Z" name="tearDown" finished-at="2024-02-06T19:32:08Z" duration-ms="931" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sdw.tests.ResidentLoginTests@21129f1f]" started-at="2024-02-06T18:16:41Z" name="setUp" finished-at="2024-02-06T18:16:49Z" duration-ms="8390" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sdw.tests.ResidentLoginTests@21129f1f]" started-at="2024-02-06T19:32:08Z" name="setUp" finished-at="2024-02-06T19:32:17Z" duration-ms="9751" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="visibilityOfContactForm()[pri:0, instance:com.sdw.tests.ResidentLoginTests@21129f1f]" started-at="2024-02-06T18:16:49Z" name="visibilityOfContactForm" finished-at="2024-02-06T18:17:00Z" duration-ms="10290" status="PASS">
+        <test-method signature="visibilityOfContactForm()[pri:0, instance:com.sdw.tests.ResidentLoginTests@21129f1f]" started-at="2024-02-06T19:32:17Z" name="visibilityOfContactForm" finished-at="2024-02-06T19:32:25Z" duration-ms="7280" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- visibilityOfContactForm -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sdw.tests.ResidentLoginTests@21129f1f]" started-at="2024-02-06T18:17:00Z" name="tearDown" finished-at="2024-02-06T18:17:01Z" duration-ms="1020" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sdw.tests.ResidentLoginTests@21129f1f]" started-at="2024-02-06T19:32:25Z" name="tearDown" finished-at="2024-02-06T19:32:26Z" duration-ms="856" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

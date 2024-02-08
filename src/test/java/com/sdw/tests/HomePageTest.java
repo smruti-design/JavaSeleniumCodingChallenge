@@ -39,5 +39,4 @@ public class HomePageTest extends BaseClass {
 		Assert.assertEquals(Driver.getDriver().getTitle(), "Accounting Solutions for Real Estate Property Management");
 
 	}
-
 }
